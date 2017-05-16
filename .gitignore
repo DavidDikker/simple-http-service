@@ -1,0 +1,15 @@
+# IntelliJ Project Files
+.idea/
+*.iml
+.DS_Store
+
+# General Compiled Output
+/project/project
+/project/target
+/target
+
+# Logging Output
+logs/
+
+# Our configuration settings
+docker.env
