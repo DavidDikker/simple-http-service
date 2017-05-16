@@ -2,10 +2,7 @@ package com.harrys.server.http
 
 import org.scalatest.{Matchers, WordSpec}
 import akka.http.scaladsl.model._
-import akka.http.scaladsl.model.headers.RawHeader
-import akka.http.scaladsl.server._
 import akka.http.scaladsl.testkit.ScalatestRouteTest
-import akka.testkit.TestProbe
 
 /**
   * Created by chris on 5/16/17.
